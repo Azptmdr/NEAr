@@ -1,0 +1,22 @@
+{
+    "NEAr": [
+      {
+        "nombre": "Rat Bastard ",
+        "foto": "https://res.cloudinary.com/dzde4ldpf/image/upload/v1646351632/Taller2prg2/steve-johnson-b5HMwgoU2h4-unsplash_ae64tr.jpg",
+        "coleccion": "Rat Bastard",
+        "precio": "3.500 FCoins",
+        "nickname": "Carlos VI",
+        "likes": 0,
+        "id": 0
+      },
+      {
+        "nombre": "Yow00022 ",
+        "foto": "https://res.cloudinary.com/dzde4ldpf/image/upload/v1646351632/Taller2prg2/steve-johnson-b5HMwgoU2h4-unsplash_ae64tr.jpg",
+        "coleccion": "Rat Bastard",
+        "precio": "9.500 FCoins",
+        "nickname": "Cxzlos VI",
+        "likes": 0,
+        "id": 1
+      }
+    ]
+  }
